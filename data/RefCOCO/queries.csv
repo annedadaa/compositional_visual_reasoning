@@ -1,0 +1,3 @@
+,index,sample_id,possible_answers,query_type,query,answer,image_name
+0,0,0,,,Please find the bounding box of the following object in the image: black cat under sink,[161.19999695 478.22000122 262.19000244 161.77999878],refcoco-0.jpg
+1,1,1,,,Please find the bounding box of the following object in the image: second bag from left,[164.94999695 106.37000275 114.06999969 187.30000305],refcoco-1.jpg
