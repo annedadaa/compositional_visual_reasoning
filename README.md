@@ -1,10 +1,10 @@
 
-![Alt text](GQA_output_example.jpg?raw=true "Title")
-
-
 # Compositional Visual Reasoning
 
 Repository for the project on compositional visual reasoning in large (visual) language models.
+
+![Alt text](GQA_output_example.jpg?raw=true "Title")
+
 
 ### To get started
 
