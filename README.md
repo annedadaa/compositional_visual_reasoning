@@ -31,3 +31,7 @@ Note: We used Vertex AI by Google and OpenAI to access large (Visual) Language M
 
 We present a few samples from different datasets in the _data_ folder. These samples are primarily for demonstration purposes, but their structure mirrors that used in our experiments.
 
+### References
+
+Dídac Surís, Sachit Menon, and Carl Vondrick. 2023. Vipergpt: Visual inference via python execution for reasoning. In Proceedings of the IEEE/CVF Interna- tional Conference on Computer Vision, pages 11888– 11898.
+
