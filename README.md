@@ -1,5 +1,5 @@
 
-![Alt text](compositional_visual_reasoning/GQA_output_example.jpg?raw=true "Title")
+![Alt text](GQA_output_example.jpg?raw=true "Title")
 
 
 # Compositional Visual Reasoning
