@@ -19,7 +19,7 @@ Go to viper directory
 cd viper
 ```
 
-Follow the installation instruction from [Viper](https://github.com/cvlab-columbia/viper/tree/09fe3465224766860d8dd4ec48db942f22b05092)
+Follow the installation instruction from [viper](https://github.com/cvlab-columbia/viper/tree/09fe3465224766860d8dd4ec48db942f22b05092)
 
 ### Reproducibility
 
