@@ -1,4 +1,5 @@
-!([http://url/to/img.png](https://github.com/annedadaa/compositional_visual_reasoning/blob/main/GQA_output_example.jpg))
+
+![Alt text](relative%20[path/to/img.jpg](https://github.com/annedadaa/compositional_visual_reasoning/blob/main/GQA_output_example.jpg)?raw=true "Title")
 
 
 # Compositional Visual Reasoning
