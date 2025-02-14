@@ -1,7 +1,7 @@
 
-# Compositional Visual Reasoning
+# Revisiting Spatial Reasoning in Visual Programmatic Models: A Reproduction Study of ViperGPT
 
-Repository for the project on compositional visual reasoning in large (visual) language models.
+Repository for the project on compositional visual reasoning in Large (Visual) Language Models.
 
 ![Alt text](GQA_output_example.jpg?raw=true "Title")
 
