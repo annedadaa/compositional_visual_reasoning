@@ -1,5 +1,5 @@
 
-![Alt text](relative%20https://github.com/annedadaa/compositional_visual_reasoning/blob/main/GQA_output_example.jpg?raw=true "Title")
+![Alt text](compositional_visual_reasoning/GQA_output_example.jpg?raw=true "Title")
 
 
 # Compositional Visual Reasoning
